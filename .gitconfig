@@ -16,3 +16,4 @@
     ps = push origin
     pl = pull origin
     a = add
+    l = log
