@@ -1,0 +1,18 @@
+[user]
+	name = Joe R
+	email = joe.net+github@me.com
+[push]
+	default = current
+[alias]
+	s = status
+	confg = config --global
+	b = branch --color
+    co = checkout
+    df = diff
+    log = log -p
+    cm = commit -m
+    f = fetch
+    p = push
+    ps = push origin
+    pl = pull origin
+    a = add
