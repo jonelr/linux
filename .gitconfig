@@ -1,6 +1,6 @@
 [user]
-	name = Joe R
-	email = joe.net+github@me.com
+	name = Jonel Rienton
+	email = jrienton@littelfuse.com
 [push]
 	default = current
 [alias]
@@ -10,10 +10,19 @@
     co = checkout
     df = diff
     log = log -p
-    cm = commit -m
+    ci = commit -s 
     f = fetch
     p = push
     ps = push origin
     pl = pull origin
     a = add
     l = log
+	d = diff
+	po = push origin
+	cp = cherry-pick
+	dev = checkout development
+	qa = checkout qa
+	cm = checkout cm
+	cd = checkout cd
+	staging = checkout staging
+	master = checkout master
