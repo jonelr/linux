@@ -23,3 +23,6 @@
 	cd = checkout cd
 	staging = checkout staging
 	master = checkout master
+	comp = log --oneline --left-right
+[color]
+	ui = true
