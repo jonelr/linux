@@ -24,5 +24,6 @@
 	staging = checkout staging
 	master = checkout master
 	comp = log --oneline --left-right
+	one = log --oneline
 [color]
 	ui = true
