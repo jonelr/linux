@@ -25,5 +25,6 @@
 	master = checkout master
 	comp = log --oneline --left-right
 	one = log --oneline
+	pr = pull --rebase
 [color]
 	ui = true
