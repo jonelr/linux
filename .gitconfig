@@ -26,5 +26,6 @@
 	comp = log --oneline --left-right
 	one = log --oneline
 	pr = pull --rebase
+	sb = status -sb
 [color]
 	ui = true
